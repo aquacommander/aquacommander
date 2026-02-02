@@ -1,5 +1,5 @@
 <div align="center">
-  <h2>💦 Senior AI and Blockchain Developer 💦</h2>
+  <h2>💦 Senior AI and Fullstack Engineer 💦</h2>
 </div>
 
 <h3>
