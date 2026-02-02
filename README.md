@@ -3,8 +3,8 @@
 </div>
 
 <h3>
-Senior AI & Blockchain Engineer
-I am a fully remote Senior AI and Blockchain Engineer with around 12 years of experience building production systems across AI, Web4, and full-stack web development. <br>
+Senior AI & Fullstack Engineer
+I am a fully remote Senior AI and Fullstack Engineer with around 12 years of experience building production systems across AI, Web4, and full-stack web development. <br>
 My work spans Rust-based smart contracts on Solana and NEAR, Solidity contracts on Ethereum, as well as secure, scalable backend and frontend architectures. <br>
 I have delivered decentralized applications (dApps), automated trading bots, advanced DeFi protocols, and AI-powered products that integrate modern LLMs and automation frameworks.<br>
 I enjoy working at the intersection of high-performance engineering and practical product design: turning complex ideas into systems that are robust in production, maintainable for teams, and intuitive for end users.<br>
