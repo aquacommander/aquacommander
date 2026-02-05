@@ -35,7 +35,6 @@ Beyond blockchain and AI, I build full-stack applications and 3D/interactive web
 
 ## How I Work
 I approach projects with a balance of technical rigor and product thinking:
-
 - Design systems that are secure, efficient, and production-ready  
 - Write clean, maintainable code with clear abstractions and documentation  
 - Communicate clearly with founders, product teams, and other engineers  
