@@ -41,7 +41,7 @@ I approach projects with a balance of technical rigor and product thinking:
 - Focus on shipping real value rather than just prototypes
 I enjoy collaborating with teams that are serious about AI, blockchain, and next-generation web experiences, and I am comfortable joining at any stage: from idea and architecture to scaling and optimization.
 
-## Open to Collaboration
+## Open to 
 
 I am currently working as a freelance, fully remote engineer and open to:
 
