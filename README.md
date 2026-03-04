@@ -1,10 +1,10 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Senior Full Stack | Blockchain | AI Platform Engineer
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Senior Software Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aiden77mori&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-I’m a **Senior Full Stack Engineer with 9+ years of experience** building scalable SaaS, fintech, and digital asset platforms across **Web2, Web3, and AI-driven systems**.
+I’m a **Senior Software Engineer with 14+ years of experience** building scalable SaaS, fintech, and digital asset platforms across **Web2, Web3, and AI-driven systems**.
 
 I specialize in designing **high-concurrency backend architectures**, blockchain-integrated applications, exchange and wallet infrastructure, and cloud-native platforms operating at production scale.
 
