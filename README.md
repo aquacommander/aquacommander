@@ -75,10 +75,13 @@ Over the years, I’ve worked extensively on **modernizing legacy environments**
 
 **Development**
 - ASP.NET • APIs • Web Applications
+- React.js, Next.js, Vue.js, Angular.js
+- PHP, GO, Scala, Ruby, Python
 
 **AI**
 - AI-Assisted Automation
 - Prompt Engineering for Operational Workflows
+- Pytorch, Langchain, CrewAI
 
 ---
 
