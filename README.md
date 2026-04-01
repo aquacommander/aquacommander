@@ -1,61 +1,54 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Senior Software Engineer
+## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Lead Infrastructure Engineer
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=aiden77mori&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-I’m a **Senior Software Engineer with 14+ years of experience** building scalable SaaS, fintech, and digital asset platforms across **Web2, Web3, and AI-driven systems**.
+I’m a **Lead Infrastructure Engineer with 20+ years of experience** designing and operating enterprise IT environments across manufacturing, healthcare, and research sectors.
 
-I specialize in designing **high-concurrency backend architectures**, blockchain-integrated applications, exchange and wallet infrastructure, and cloud-native platforms operating at production scale.
+My work focuses on **hybrid cloud infrastructure, cybersecurity-aligned systems, and AI-assisted operational strategies**, with a strong emphasis on reliability, scalability, and real-world production stability.
 
-Recently, my work has focused on combining **AI capabilities with distributed systems**, integrating LLM-powered automation, intelligent analytics, and developer productivity workflows into modern platform engineering environments.
-
-I enjoy solving complex system problems — from transaction engines and digital economies to scalable APIs and intelligent platform automation.
+Over the years, I’ve worked extensively on **modernizing legacy environments**, building resilient platforms, and ensuring systems remain secure, performant, and aligned with business operations.
 
 ---
 
 ## 🚀 Engineering Highlights
 
-- ✅ Architected **DFS Chain ecosystem** including wallet, exchange, explorer, and token infrastructure
-- ✅ Built hybrid **Web2 ↔ Web3 asset bridge & exchange systems**
-- ✅ Designed high-throughput backend services handling **millions of transactions**
-- ✅ Delivered DeFi platforms, NFT marketplaces, and blockchain infrastructure
-- ✅ Integrated **AI-assisted analytics & automation** into production platforms
-- ✅ Experienced across full lifecycle: architecture → development → deployment → scaling
+- ✅ Designed and operated **hybrid cloud environments** (VMware, OpenShift, Active Directory)
+- ✅ Built **high-availability infrastructure** supporting production-critical systems
+- ✅ Led **enterprise virtualization initiatives (99% virtualized environments)**
+- ✅ Implemented **cybersecurity frameworks (CIS18, SANS, Purdue Model)**
+- ✅ Developed **AI-assisted troubleshooting & automation workflows**
+- ✅ Delivered **VDI and performance optimization strategies at scale**
+- ✅ Executed **large-scale system migrations with minimal downtime**
 
 ---
 
 ## 🧠 Core Expertise
 
-### Blockchain & Digital Asset Infrastructure
-- Ethereum / EVM Ecosystems
-- Smart Contract Integration
-- Wallet & Custody Systems
-- Exchange & Tokenomics Platforms
-- Cross-Chain Asset Bridging
-- DeFi / DEX Architecture
+### Infrastructure & Platform Engineering
+- Hybrid Cloud Architecture (VMware, OpenShift)
+- Virtualization & VDI (Horizon, Citrix)
+- Active Directory & Identity Systems
+- High Availability & Disaster Recovery
+- Infrastructure Monitoring & Performance Tuning
 
-### Full Stack & Platform Engineering
-- React / Next.js / TypeScript
-- Node.js / Express / NestJS
-- Microservices & Distributed Systems
-- High-Concurrency API Design
-- GraphQL / REST Architecture
-- Cloud-Native Application Design
+### Cybersecurity & Compliance
+- CIS18 / SANS / Purdue Model Alignment
+- Vulnerability Management & Patch Automation
+- Identity & Access Control (IAM)
+- Secure Infrastructure Design
 
-### AI & Intelligent Systems
-- OpenAI & LLM API Integration
-- AI-Assisted Automation
-- Intelligent Analytics Pipelines
-- AI-Augmented Development Workflows
-- Agent-based System Concepts
+### AI & Automation
+- AI-Assisted Troubleshooting
+- Automation of Operational Workflows
+- Data Integration & ETL Pipelines
+- Prompt Engineering for Technical Systems
 
-### Cloud & DevOps
-- AWS / Azure / GCP
-- Docker / Kubernetes
-- CI/CD Pipelines
-- Observability & Monitoring
-- Scalable Infrastructure Design
+### Systems & Development
+- Full Stack Development (ASP.NET, APIs, Web Apps)
+- SQL Databases & Data Systems
+- Multi-site Infrastructure & IT/OT Integration
 
 ---
 
@@ -63,37 +56,39 @@ I enjoy solving complex system problems — from transaction engines and digital
 
 <img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
 
-**Frontend**
-- React • Next.js • TypeScript • Vue
-- TailwindCSS • Design Systems • SPA Architecture
+**Infrastructure**
+- VMware • vSphere • ESXi • vCenter
+- OpenShift • Kubernetes • Docker
+- Citrix • VDI Platforms
 
-**Backend**
-- Node.js • Express • NestJS
-- Distributed Services • Queue Systems
-- Authentication & Identity Systems
+**Systems**
+- Windows Server • Linux
+- Active Directory • Identity Systems
 
-**Blockchain**
-- Solidity • Web3.js • Ethers.js
-- DeFi • DEX • NFT Platforms
+**Security**
+- CIS18 • SANS • Purdue Model
+- Vulnerability & Patch Management
 
-**Databases**
-- PostgreSQL • MongoDB • Redis
-- Elasticsearch • Supabase
+**Data**
+- SQL Server • ETL Pipelines
+- Data Integration Systems
+
+**Development**
+- ASP.NET • APIs • Web Applications
 
 **AI**
-- OpenAI API
-- LLM Integration
-- AI Automation Workflows
+- AI-Assisted Automation
+- Prompt Engineering for Operational Workflows
 
 ---
 
 ## ⚡ What I’m Currently Focused On
 
-- AI + Blockchain platform convergence  
-- Intelligent backend automation  
-- Scalable financial infrastructure  
-- Developer productivity systems powered by AI  
+- AI-driven infrastructure operations  
+- Hybrid cloud optimization & resilience  
+- Cybersecurity-aligned platform design  
+- Automation of enterprise IT workflows  
 
 ---
 
-⭐ *Always open to collaborating on platform engineering, AI infrastructure, and next-generation digital systems.*
+⭐ *Focused on building reliable, secure, and scalable systems that support real-world operations — not just code, but infrastructure that businesses depend on.*
