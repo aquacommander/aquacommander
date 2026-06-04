@@ -1,100 +1,52 @@
-## <img height="60" width="60" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/hello.gif" /> Senior Software Engineer
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://gist.githubusercontent.com/rafaeltab/3fb9af2d188e761e7a90a69b8a850614/raw/621f67592b1528a1f279e73c4fcf91b3cb6dfff8/learn_practice_inspire_dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/44a23fd8fb06dd2b2738ba6371776ae2db20ff7c/learn_practice_inspire_light.svg"
+  />
+  <img alt="Learn;Practice;Inspire;" src="https://gist.githubusercontent.com/rafaeltab/6307726ddb0cd5cf0749032c848261fd/raw/44a23fd8fb06dd2b2738ba6371776ae2db20ff7c/learn_practice_inspire_light.svg" />
+</picture>
 
+## Software Engineer | Developer Experience Advocate | Open Source Enthusiast
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=aiden77mori&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+I began coding at 18 and have been driven ever since by a passion for developer experience and open source. I believe the best products are built on solid codebases, clear documentation, and empowered developers.
 
-I’m a **Senior Software Engineer with 14 years of experience** building scalable SaaS, fintech, and digital asset platforms across **Web2, Web3, and AI-driven systems**.
-
-I specialize in designing **high-concurrency backend architectures**, blockchain-integrated applications, exchange and wallet infrastructure, and cloud-native platforms operating at production scale.
-
-Recently, my work has focused on combining **AI capabilities with distributed systems**, integrating LLM-powered automation, intelligent analytics, and developer productivity workflows into modern platform engineering environments.
-
-I enjoy solving complex system problems — from transaction engines and digital economies to scalable APIs and intelligent platform automation.
-
----
-
-## 🚀 Engineering Highlights
-
-- ✅ Architected **DFS Chain ecosystem** including wallet, exchange, explorer, and token infrastructure
-- ✅ Built hybrid **Web2 ↔ Web3 asset bridge & exchange systems**
-- ✅ Designed high-throughput backend services handling **millions of transactions**
-- ✅ Delivered DeFi platforms, NFT marketplaces, and blockchain infrastructure
-- ✅ Integrated **AI-assisted analytics & automation** into production platforms
-- ✅ Experienced across full lifecycle: architecture → development → deployment → scaling
+I’m always learning new things, practicing and refining my craft, and sharing what I know to help and inspire others.
 
 ---
 
-## 🧠 Core Expertise
+### 💡 Philosophy
 
-### Blockchain & Digital Asset Infrastructure
-- Ethereum / EVM Ecosystems
-- Smart Contract Integration
-- Wallet & Custody Systems
-- Exchange & Tokenomics Platforms
-- Cross-Chain Asset Bridging
-- DeFi / DEX Architecture
+> "Code should empower, not frustrate. If the developer experience isn’t great, the product won’t be either."
 
-### Full Stack & Platform Engineering
-- React / Next.js / TypeScript
-- Node.js / Express / NestJS
-- Microservices & Distributed Systems
-- High-Concurrency API Design
-- GraphQL / REST Architecture
-- Cloud-Native Application Design
-
-### AI & Intelligent Systems
-- OpenAI & LLM API Integration
-- AI-Assisted Automation
-- Intelligent Analytics Pipelines
-- AI-Augmented Development Workflows
-- Agent-based System Concepts
-
-### Cloud & DevOps
-- AWS / Azure / GCP
-- Docker / Kubernetes
-- CI/CD Pipelines
-- Observability & Monitoring
-- Scalable Infrastructure Design
+Wherever I work, I strive to raise the bar for code quality, documentation, and developer experience. I take pride in cleaning up warnings, improving docs, and building systems where developers feel confident and productive.
 
 ---
 
-## 🧰 Technology Stack
+### 🛠️ My Skillset
 
-<img align="right" width="350" src="https://github.com/mastercodingbear/mastercodingbear/blob/main/img/image03.gif" />
-
-**Frontend**
-- React • Next.js • TypeScript • Vue
-- TailwindCSS • Design Systems • SPA Architecture
-
-**Backend**
-- Node.js • Express • NestJS
-- Distributed Services • Queue Systems
-- Authentication & Identity Systems
-
-**Blockchain**
-- Solidity • Web3.js • Ethers.js
-- DeFi • DEX • NFT Platforms
-
-**Databases**
-- PostgreSQL • MongoDB • Redis
-- Elasticsearch • Supabase
-
-**AI**
-- OpenAI API
-- LLM Integration
-- AI Automation Workflows
+I’m a Senior Software Engineer with 14 years of experience building scalable SaaS, fintech, Web3, and AI-powered platforms.
+I focus on backend architecture, blockchain systems, exchange/wallet infrastructure, cloud platforms, and LLM-based automation.
+I enjoy solving complex technical problems and building reliable products that can scale in production.
 
 ---
 
-## ⚡ What I’m Currently Focused On
+### ✨ About Me
 
-- AI + Blockchain platform convergence  
-- Intelligent backend automation  
-- Scalable financial infrastructure  
-- Developer productivity systems powered by AI  
+- 📚 Lifelong learner 
+- 📺 Anime fan (always happy to swap recommendations!)
+- 💻 Code is both my career and my hobby
+- 🏊 Scuba diver, exploring new depths
 
 ---
 
-⭐ *Always open to collaborating on platform engineering, AI infrastructure, and next-generation digital systems.*
+### 🌐 Find Me Online
+
+- Portfolio: [suyama.blog](https://suyama.blog) _(WIP, but the front page is live!)_
+
+---
+
+_Always happy to connect, collaborate, and help other developers level up!_
