@@ -46,7 +46,11 @@ I enjoy solving complex technical problems and building reliable products that c
 ### 🌐 Find Me Online
 
 - Portfolio: [suyama.blog](https://suyama.blog) _(WIP, but the front page is live!)_
-
 ---
 
 _Always happy to connect, collaborate, and help other developers level up!_
+
+### 📞 Contact
+- Whatsapp: +81 70 9465 3123
+- Telegram : @angel_10_04
+- Email :  swandev0702@gmail.com
