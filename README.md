@@ -51,6 +51,5 @@ I enjoy solving complex technical problems and building reliable products that c
 _Always happy to connect, collaborate, and help other developers level up!_
 
 ### 📞 Contact
-- Whatsapp: +81 70 9465 3123
 - Telegram : @angel_10_04
 - Email :  swandev0702@gmail.com
