@@ -43,10 +43,6 @@ I enjoy solving complex technical problems and building reliable products that c
 
 ---
 
-### 🌐 Find Me Online
-
-- Portfolio: [suyama.blog](https://suyama.blog) _(WIP, but the front page is live!)_
----
 
 _Always happy to connect, collaborate, and help other developers level up!_
 
