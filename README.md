@@ -46,6 +46,4 @@ I enjoy solving complex technical problems and building reliable products that c
 
 _Always happy to connect, collaborate, and help other developers level up!_
 
-### 📞 Contact
-- Telegram : @angel_10_04
 
